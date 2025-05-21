@@ -1,0 +1,2 @@
+# GlobomanticsAPI
+Houses API
